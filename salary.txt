@@ -1,1 +1,1 @@
-Employee Salary: 40000
+Employee Salary: 50000
