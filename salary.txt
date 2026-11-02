@@ -1,1 +1,1 @@
-Employee Salary: 25000
+Employee Salary: 30000
